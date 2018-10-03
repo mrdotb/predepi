@@ -6,3 +6,5 @@ tout ou partie de la dotation en capital initial augmenté des dons reçus au fi
 du capital ainsi réuni ou augmenté.
 + soutenir toute structure d'intérêt général associée au travail de l'association ASELP et/ou, plus généralement, toute structure d'intérêt général poursuivant des buts
 similaires à l'association ou se situant dans le prolongement de son objet.
+
+Adresse: 54 rue des Saints Pères 75007 Paris
