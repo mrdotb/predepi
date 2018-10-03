@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mrdotb/predepi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrdotb/predepi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Aider financièrement toute structure, en particulier éditoriale, se consacrant à l’illustration des valeurs spécifiques du protestantisme sous l’égide de son association fondatrice ASELP (association pour le soutien à l’édition et au livre protestant) en application des statuts de cette dernière:
++ financer directement la mission d'intérêt général de l'association ASELP et l'aider dans cette mission en lui versant les revenus issus de la capitalisation ou en apportant
+tout ou partie de la dotation en capital initial augmenté des dons reçus au fil du temps (dotation au capital consomptible). Il s’interdit néanmoins de distribuer plus de 75%
+du capital ainsi réuni ou augmenté.
++ soutenir toute structure d'intérêt général associée au travail de l'association ASELP et/ou, plus généralement, toute structure d'intérêt général poursuivant des buts
+similaires à l'association ou se situant dans le prolongement de son objet.
