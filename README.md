@@ -8,3 +8,5 @@ du capital ainsi réuni ou augmenté.
 similaires à l'association ou se situant dans le prolongement de son objet.
 
 Adresse: 54 rue des Saints Pères 75007 Paris
+
+contact@predepi.fr
