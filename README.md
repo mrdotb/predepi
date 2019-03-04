@@ -9,4 +9,4 @@ similaires à l'association ou se situant dans le prolongement de son objet.
 
 Adresse: 54 rue des Saints Pères 75007 Paris
 
-<a href='mailto:contact@predepi.fr'>contact@predepi.fr</a>
+<a href='mailto:predepi@outlook.com'>predepi@outlook.com</a>
